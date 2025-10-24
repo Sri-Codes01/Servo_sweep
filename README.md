@@ -2,6 +2,9 @@
 
 A simple Arduino project demonstrating smooth servo motor motion control using the built-in Servo library.<br>
 
+# License
+This project is licensed under the MIT License.
+
 #  Features:
 
 Smooth bidirectional sweep between 0° and 180°.<br>
@@ -74,3 +77,4 @@ pos += 1; or pos -= 1; → movement step size (bigger step = faster but less smo
 # Example Use<br>
 
 Use this project to test servo performance, calibrate angle limits, or integrate it into robotic arms, sensor mounts, or pan-tilt mechanisms.
+
